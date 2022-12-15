@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/k8s-device-plugin:v0.12.0
+FROM nvcr.io/nvidia/k8s/cuda-sample:vectoradd-cuda10.2
